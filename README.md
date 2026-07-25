@@ -132,10 +132,15 @@ Business Insights
 
 # 📑 Dashboard Pages
 
-## 🏠 Home
+## 🏠 Home Page
 
-Provides a central navigation page allowing users to access different analytical sections of the dashboard through an interactive interface.
+<p align="center">
+  <img src="assets/landing_page.png" alt="Airbnb Dashboard Landing Page" width="900">
+</p>
 
+<p align="center">
+<b>Interactive landing page providing navigation to all dashboard sections.</b>
+</p>
 ---
 
 ## 📈 Business Overview
