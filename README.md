@@ -33,7 +33,6 @@
   <b>👆 Click the banner above to explore the fully interactive Power BI report.</b>
 </p>
 
----
 
 ## 📌 Project Highlights
 
@@ -45,14 +44,13 @@
 - 🎯 Interactive Navigation using Bookmarks
 - 📖 Data Storytelling through Business Insights
 
----
 
 ## 🎯 Project Outcome
 
 
 This dashboard transforms publicly available Airbnb listing data into an interactive business intelligence solution that enables users to explore marketplace performance, pricing trends, customer satisfaction, host credibility, and seasonal behaviour through an intuitive, business-focused interface.
 
----
+
 
 ## 📖 About the Project
 
@@ -62,7 +60,6 @@ The analysis explores marketplace growth, pricing behaviour, customer ratings, r
 
 Rather than focusing only on visualisation, the project emphasises presenting analytical findings in a clear, structured, and business-oriented manner.
 
----
 
 ## 🎯 Business Objective
 
@@ -78,7 +75,7 @@ The primary objective of this project is to analyse Airbnb marketplace data and 
 
 The dashboard enables users to interactively explore marketplace performance and identify meaningful business insights.
 
----
+
 
 ## 📊 Dataset Overview
 
@@ -102,7 +99,7 @@ The analysis is based on a publicly available Airbnb dataset containing informat
 | Cities | 10 |
 | Analysis Period | 2008 – 2021 |
 
----
+
 
 ## 🔄 Project Workflow
 
@@ -128,7 +125,7 @@ Interactive Dashboard
 Business Insights
 ```
 
----
+
 
 ## 📑 Dashboard Pages
 
@@ -167,14 +164,14 @@ Provides a high-level summary of Airbnb marketplace performance through key perf
 - Historical Platform Timeline
 - Overall Marketplace Performance
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da&pageName=3f5bf9ab0052d7066456">
 <img src="assets/overview_page.jpg" width="1000">
 </a>
 
 <p align="center">
 <b>Executive overview highlighting marketplace KPIs, listing growth trends, and room type distribution.</b>
 </p>
----
+
 
 ## ⭐ Ratings Analysis
 
@@ -189,14 +186,14 @@ Analyses customer satisfaction and pricing behaviour across different cities and
 - Market Share Analysis
 - Superhost Analysis
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da&pageName=9d13c96b87dd0869819b">
 <img src="assets/ratings_page.jpg" width="1000">
 </a>
 
 <p align="center">
 <b>Explore guest ratings, pricing patterns, city performance, and market concentration across Airbnb markets.</b>
 </p>
----
+
 
 ## 💬 Customer & Review Analysis
 
@@ -211,14 +208,14 @@ Examines customer engagement patterns and host trust indicators.
 - Seasonal Review Trends
 
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da&pageName=aab87da6ddca8e092c40">
 <img src="assets/reviews_page.jpg" width="1000">
 </a>
 
 <p align="center">
 <b>Analyze guest review behaviour, host trust indicators, and seasonal review trends.</b>
 </p>
----
+
 
 ## 💡 Key Business Insights
 
@@ -231,7 +228,6 @@ The dashboard highlights several important marketplace observations, including:
 - Seasonal variation in customer review activity.
 - Host verification and trust patterns.
 
----
 
 ## 🛠️ Skills Demonstrated
 
@@ -248,7 +244,7 @@ Through this project, I strengthened my practical understanding of:
 - Business Storytelling
 - Data Visualisation Best Practices
 
----
+
 
 ## 💻 Tools & Technologies
 
@@ -258,7 +254,7 @@ Through this project, I strengthened my practical understanding of:
 - Data Modelling
 - Data Visualisation
 
----
+
 
 ## ▶️ How to Use
 
@@ -268,7 +264,7 @@ Through this project, I strengthened my practical understanding of:
 4. Explore each dashboard page using the built-in navigation buttons and filters.
 5. Hover over visuals where applicable to view additional information.
 
----
+
 
 ## 📂 Dataset Source
 
@@ -279,7 +275,6 @@ The dataset used in this project is publicly available for learning and analytic
 
 🔗 **Dataset Link:** https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
----
 
 ## 🙏 Acknowledgements
 
