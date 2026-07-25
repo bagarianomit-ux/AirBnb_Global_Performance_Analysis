@@ -24,20 +24,16 @@
 
 # 🚀 Live Interactive Dashboard
 
+## 🚀 Live Interactive Dashboard
+
 <p align="center">
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
-
-<img src="assets/landing_page.png" width="900"/>
-
-</a>
-
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da&pageName=aab87da6ddca8e092c40" target="_blank">
+    <img src="assets/live_dashboard_banner.png" alt="Live Airbnb Power BI Dashboard" width="1000">
+  </a>
 </p>
 
 <p align="center">
-
-<b>👆 Click the image above to explore the fully interactive Power BI report.</b>
-
+  <b>👆 Click the dashboard preview above to explore the fully interactive Power BI report.</b>
 </p>
 
 ---
