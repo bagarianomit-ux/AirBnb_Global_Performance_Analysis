@@ -21,13 +21,10 @@
 </div>
 
 ---
-
-# 🚀 Live Interactive Dashboard
-
 ## 🚀 Live Interactive Dashboard
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da&pageName=aab87da6ddca8e092c40" target="_blank">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da" target="_blank">
     <img src="assets/live_dashboard_banner.png" alt="Live Airbnb Power BI Dashboard" width="1000">
   </a>
 </p>
@@ -260,7 +257,7 @@ Through this project, I strengthened my practical understanding of:
 
 The dataset used in this project is publicly available for learning and analytical purposes.
 
-➡️ **Dataset Source:** *(https://mavenanalytics.io/data-playground/airbnb-listings-reviews)*
+➡️ **Dataset Source:** *https://mavenanalytics.io/data-playground/airbnb-listings-reviews*
 
 ---
 
