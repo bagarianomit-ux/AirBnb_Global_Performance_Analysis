@@ -262,7 +262,7 @@ Through this project, I strengthened my practical understanding of:
 
 The dataset used in this project is publicly available for learning and analytical purposes.
 
-➡️ **Dataset Source:** *(Add Dataset Link Here)*
+➡️ **Dataset Source:** *(https://mavenanalytics.io/data-playground/airbnb-listings-reviews)*
 
 ---
 
@@ -270,9 +270,9 @@ The dataset used in this project is publicly available for learning and analytic
 
 This project was completed as part of a guided Power BI learning journey to strengthen my skills in data modelling, dashboard development, DAX, and business intelligence.
 
-I would like to thank **[Mentor Name](MENTOR_LINKEDIN_URL)** for the instructional guidance provided throughout the project.
+I would like to thank **[Mansi Goel](https://www.linkedin.com/in/mansigoelofficial/)** for the instructional guidance provided throughout the project.
 
-📺 **Original Learning Resource:** [YouTube Tutorial](YOUTUBE_LINK)
+📺 **Original Learning Resource:** [YouTube Tutorial](https://youtu.be/LzlaCBNT9vY?si=O0sbVRltuXTBhv1M)
 
 The dashboard customisation, documentation, project organisation, GitHub presentation, and portfolio preparation were completed independently as part of my learning process.
 
@@ -284,8 +284,7 @@ The dashboard customisation, documentation, project organisation, GitHub present
 
 **Nomit Bagaria**
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: www.linkedin.com/in/nomitbagaria
 
-💻 GitHub: https://github.com/YOUR_USERNAME
 
 </div>
