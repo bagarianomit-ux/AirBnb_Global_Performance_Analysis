@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <b>👆 Click the dashboard preview above to explore the fully interactive Power BI report.</b>
+  <b>👆 Click the banner above to explore the fully interactive Power BI report.</b>
 </p>
 
 ---
@@ -255,7 +255,7 @@ Through this project, I strengthened my practical understanding of:
 
 ## ▶️ How to Use
 
-1. Click on the **Live Interactive Dashboard** preview at the top of this repository.
+1. Click on the **Banner** preview at the top of this repository.
 2. The Power BI report will open in your web browser.
 3. Navigate through the report using the interactive Home page.
 4. Explore each dashboard page using the built-in navigation buttons and filters.
