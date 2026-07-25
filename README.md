@@ -47,6 +47,13 @@
 
 ---
 
+## 🎯 Project Outcome
+
+
+This dashboard transforms publicly available Airbnb listing data into an interactive business intelligence solution that enables users to explore marketplace performance, pricing trends, customer satisfaction, host credibility, and seasonal behaviour through an intuitive, business-focused interface.
+
+---
+
 ## 📖 About the Project
 
 This project presents an interactive Power BI dashboard developed to analyse Airbnb marketplace performance across multiple global cities.
