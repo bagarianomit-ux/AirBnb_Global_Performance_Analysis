@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="YOUR_PUBLIC_POWER_BI_LINK">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
 
 <img src="assets/landing_page.png" width="900"/>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<b>👆 Click the dashboard preview above to explore the fully interactive Power BI report.</b>
+<b>👆 Click the image above to explore the fully interactive Power BI report.</b>
 
 </p>
 
@@ -134,14 +134,15 @@ Business Insights
 
 ## 🏠 Home Page
 
+Provides a central navigation page allowing users to access different analytical sections of the dashboard through an interactive interface.
+
 <p align="center">
-  <img src="assets/landing_page.png" alt="Airbnb Dashboard Landing Page" width="900">
+<img src="assets/landing_page.jpg" width="1000">
 </p>
 
 <p align="center">
-<b>Interactive landing page providing navigation to all dashboard sections.</b>
+<b>The landing page provides intuitive navigation to each analytical section of the dashboard.</b>
 </p>
----
 
 ## 📈 Business Overview
 
@@ -155,6 +156,13 @@ Provides a high-level summary of Airbnb marketplace performance through key perf
 - Historical Platform Timeline
 - Overall Marketplace Performance
 
+<p align="center">
+<img src="assets/overview_page.jpg" width="1000">
+</p>
+
+<p align="center">
+<b>Executive overview highlighting marketplace KPIs, listing growth trends, and room type distribution.</b>
+</p>
 ---
 
 ## ⭐ Ratings Analysis
@@ -170,6 +178,13 @@ Analyses customer satisfaction and pricing behaviour across different cities and
 - Market Share Analysis
 - Superhost Analysis
 
+<p align="center">
+<img src="assets/ratings_page.jpg" width="1000">
+</p>
+
+<p align="center">
+<b>Explore guest ratings, pricing patterns, city performance, and market concentration across Airbnb markets.</b>
+</p>
 ---
 
 ## 💬 Customer & Review Analysis
@@ -184,6 +199,14 @@ Examines customer engagement patterns and host trust indicators.
 - Trust Indicators
 - Seasonal Review Trends
 
+
+<p align="center">
+<img src="assets/reviews_page.jpg" width="1000">
+</p>
+
+<p align="center">
+<b>Analyze guest review behaviour, host trust indicators, and seasonal review trends.</b>
+</p>
 ---
 
 # 💡 Key Business Insights
@@ -224,32 +247,6 @@ Through this project, I strengthened my practical understanding of:
 - DAX (Data Analysis Expressions)
 - Data Modelling
 - Data Visualisation
-
----
-
-# 📷 Project Screenshots
-
-## 🏠 Home Page
-
-> *(Insert Screenshot)*
-
----
-
-## 📈 Business Overview
-
-> *(Insert Screenshot)*
-
----
-
-## ⭐ Ratings Analysis
-
-> *(Insert Screenshot)*
-
----
-
-## 💬 Customer & Review Analysis
-
-> *(Insert Screenshot)*
 
 ---
 
