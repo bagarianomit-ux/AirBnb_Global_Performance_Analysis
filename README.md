@@ -1,76 +1,86 @@
-# Airbnb Global Performance Analysis
+<div align="center">
+
+# 🏡 Airbnb Global Performance Analysis
+
+### An Interactive Business Intelligence Dashboard Built with Power BI
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-Data%20Preparation-00B294?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-Analytics-FF5A5F?style=for-the-badge"/>
+
+</p>
+
+**Power BI • Power Query • DAX • Data Modelling • Dashboard Design • Business Intelligence • Data Storytelling**
+
+</div>
+
+---
+
+# 🚀 Live Interactive Dashboard
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" width="110" alt="Airbnb Logo"/>
+
+<a href="YOUR_PUBLIC_POWER_BI_LINK">
+
+<img src="assets/landing_page.png" width="900"/>
+
+</a>
+
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Language-DAX-0176D3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data-Power%20Query-00B294?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-FF5A5F?style=for-the-badge"/>
+<b>👆 Click the dashboard preview above to explore the fully interactive Power BI report.</b>
 
 </p>
 
 ---
 
-# Project Overview
+# 📌 Project Highlights
 
-This project presents an interactive Power BI dashboard built to analyse Airbnb marketplace performance across multiple global cities.
-
-The dashboard explores listing growth, pricing patterns, customer ratings, review behaviour, host trust indicators, and seasonal trends to demonstrate how business intelligence can be used to transform raw data into actionable insights.
-
-The project focuses on developing practical Power BI skills including data modelling, DAX, dashboard design, interactive reporting, and business storytelling.
-
----
-
-# Business Objective
-
-The objective of this project is to analyse Airbnb marketplace data and answer business questions related to:
-
-- Marketplace growth
-- Listing distribution
-- Pricing behaviour
-- Customer satisfaction
-- Host credibility
-- Review trends
-- Seasonal demand patterns
-
-The final dashboard enables users to interactively explore marketplace performance and identify meaningful business insights.
+- 📊 Interactive Business Intelligence Dashboard
+- 🌍 Analysis of **279K+ Airbnb Listings**
+- ⭐ Analysis of **5.3 Million Customer Reviews**
+- 🏙️ Covers **10 Global Cities**
+- 📈 Business-focused Visualisations
+- 🎯 Interactive Navigation using Bookmarks
+- 📖 Data Storytelling through Business Insights
 
 ---
 
-# Dashboard Preview
+# 📖 About the Project
 
-## Home Page
+This project presents an interactive Power BI dashboard developed to analyse Airbnb marketplace performance across multiple global cities.
 
-> *(Insert Landing Page Screenshot)*
+The analysis explores marketplace growth, pricing behaviour, customer ratings, review trends, host trust indicators, and seasonal demand patterns to demonstrate how business intelligence can support data-driven decision-making.
 
----
-
-## Business Overview
-
-> *(Insert Overview Screenshot)*
+Rather than focusing only on visualisation, the project emphasises presenting analytical findings in a clear, structured, and business-oriented manner.
 
 ---
 
-## Ratings Analysis
+# 🎯 Business Objective
 
-> *(Insert Ratings Page Screenshot)*
+The primary objective of this project is to analyse Airbnb marketplace data and answer business questions related to:
+
+- Marketplace Growth
+- Listing Distribution
+- Pricing Behaviour
+- Customer Satisfaction
+- Host Credibility
+- Review Behaviour
+- Seasonal Demand Trends
+
+The dashboard enables users to interactively explore marketplace performance and identify meaningful business insights.
 
 ---
 
-## Customer & Review Analysis
-
-> *(Insert Reviews Page Screenshot)*
-
----
-
-# Dataset Overview
+# 📊 Dataset Overview
 
 The analysis is based on a publicly available Airbnb dataset containing information about:
 
@@ -83,50 +93,52 @@ The analysis is based on a publicly available Airbnb dataset containing informat
 - Pricing
 - Cities
 
-The dashboard analyses approximately:
+### Dataset Summary
 
-- 279,000+ Listings
-- 5.3 Million Reviews
-- 10 Global Cities
+| Metric | Value |
+|----------|-------|
+| Listings | 279,712+ |
+| Reviews | 5.3 Million+ |
+| Cities | 10 |
+| Analysis Period | 2008 – 2021 |
 
 ---
 
-# Project Workflow
+# 🔄 Project Workflow
 
-```
-
+```text
 Raw Dataset
-↓
-
+      │
+      ▼
 Power Query
-
-↓
-
-Data Cleaning
-
-↓
-
+      │
+      ▼
+Data Cleaning & Transformation
+      │
+      ▼
 Data Modelling
-
-↓
-
+      │
+      ▼
 DAX Measures
-
-↓
-
+      │
+      ▼
 Interactive Dashboard
-
-↓
-
+      │
+      ▼
 Business Insights
-
 ```
 
 ---
 
-# Dashboard Pages
+# 📑 Dashboard Pages
 
-## 1. Business Overview
+## 🏠 Home
+
+Provides a central navigation page allowing users to access different analytical sections of the dashboard through an interactive interface.
+
+---
+
+## 📈 Business Overview
 
 Provides a high-level summary of Airbnb marketplace performance through key performance indicators and listing trends.
 
@@ -140,9 +152,9 @@ Provides a high-level summary of Airbnb marketplace performance through key perf
 
 ---
 
-## 2. Ratings Analysis
+## ⭐ Ratings Analysis
 
-Explores customer satisfaction and pricing behaviour across cities and property types.
+Analyses customer satisfaction and pricing behaviour across different cities and property types.
 
 ### Analysis Included
 
@@ -155,9 +167,9 @@ Explores customer satisfaction and pricing behaviour across cities and property 
 
 ---
 
-## 3. Customer & Review Analysis
+## 💬 Customer & Review Analysis
 
-Examines customer engagement and host trust indicators.
+Examines customer engagement patterns and host trust indicators.
 
 ### Analysis Included
 
@@ -169,22 +181,22 @@ Examines customer engagement and host trust indicators.
 
 ---
 
-# Key Business Insights
+# 💡 Key Business Insights
 
 The dashboard highlights several important marketplace observations, including:
 
 - Marketplace growth trends over time.
 - Distribution of listings across major global cities.
-- Differences in pricing between room types.
-- Customer satisfaction levels across different markets.
+- Pricing differences across room types.
+- Customer satisfaction across different markets.
 - Seasonal variation in customer review activity.
-- Host verification patterns and trust indicators.
+- Host verification and trust patterns.
 
 ---
 
-# Skills Demonstrated
+# 🛠️ Skills Demonstrated
 
-This project demonstrates practical experience with:
+Through this project, I strengthened my practical understanding of:
 
 - Power BI Dashboard Development
 - Data Cleaning using Power Query
@@ -194,105 +206,86 @@ This project demonstrates practical experience with:
 - Business Intelligence Reporting
 - Interactive Navigation
 - Bookmark Navigation
-- Data Storytelling
-- Dashboard Design Best Practices
+- Dashboard Design
+- Business Storytelling
+- Data Visualisation Best Practices
 
 ---
 
-# Tools & Technologies
+# 💻 Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modelling
-- Data Visualization
+- Data Visualisation
 
 ---
 
-# Repository Structure
+# 📷 Project Screenshots
 
-```
+## 🏠 Home Page
 
-Airbnb_Global_Performance_Analysis/
-
-│
-
-├── README.md
-
-├── Airbnb_Global_Performance_Analysis.pbix
-
-│
-
-├── assets/
-
-│ ├── landing_page.png
-
-│ ├── overview.png
-
-│ ├── ratings.png
-
-│ └── reviews.png
-
-│
-
-└── dataset_source.md
-
-```
+> *(Insert Screenshot)*
 
 ---
 
-# How to Use
+## 📈 Business Overview
 
-1. Clone or download this repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Navigate through the dashboard using the interactive landing page.
-4. Explore each report page to analyse marketplace performance.
+> *(Insert Screenshot)*
 
 ---
 
-# Learning Outcomes
+## ⭐ Ratings Analysis
 
-Through this project I strengthened my understanding of:
-
-- Building professional Power BI dashboards.
-- Creating reusable DAX measures.
-- Designing interactive reports.
-- Organising report layouts for business users.
-- Presenting analytical findings through data visualisation.
+> *(Insert Screenshot)*
 
 ---
 
-# Future Improvements
+## 💬 Customer & Review Analysis
 
-Potential future enhancements include:
-
-- Drill-through analysis
-- Dynamic report tooltips
-- Additional KPI pages
-- Mobile layout optimisation
-- Performance optimisation
-- Advanced DAX calculations
+> *(Insert Screenshot)*
 
 ---
 
-# Dataset Source
+# ▶️ How to Use
 
-This project uses a publicly available Airbnb dataset intended for learning and analytical purposes.
-
----
-
-# Acknowledgements
-
-This project was completed as part of guided learning to strengthen Power BI, data modelling, DAX, and dashboard development skills.
-
-While the overall project direction was guided, the dashboard exploration, report customisation, project organisation, documentation, and presentation have been completed independently as part of my learning portfolio.
+1. Click on the **Live Interactive Dashboard** preview at the top of this repository.
+2. The Power BI report will open in your web browser.
+3. Navigate through the report using the interactive Home page.
+4. Explore each dashboard page using the built-in navigation buttons and filters.
+5. Hover over visuals where applicable to view additional information.
 
 ---
 
-## Connect With Me
+# 📂 Dataset Source
+
+The dataset used in this project is publicly available for learning and analytical purposes.
+
+➡️ **Dataset Source:** *(Add Dataset Link Here)*
+
+---
+
+# 🙏 Acknowledgements
+
+This project was completed as part of a guided Power BI learning journey to strengthen my skills in data modelling, dashboard development, DAX, and business intelligence.
+
+I would like to thank **[Mentor Name](MENTOR_LINKEDIN_URL)** for the instructional guidance provided throughout the project.
+
+📺 **Original Learning Resource:** [YouTube Tutorial](YOUTUBE_LINK)
+
+The dashboard customisation, documentation, project organisation, GitHub presentation, and portfolio preparation were completed independently as part of my learning process.
+
+---
+
+<div align="center">
+
+## 👤 Connect With Me
 
 **Nomit Bagaria**
 
-LinkedIn: *(Add LinkedIn URL)*
+💼 LinkedIn: YOUR_LINKEDIN_URL
 
-GitHub: *(Add GitHub URL)*
+💻 GitHub: https://github.com/YOUR_USERNAME
+
+</div>
