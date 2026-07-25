@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 Airbnb Global Performance Analysis
+# 🏡 Airbnb Global Performance Analysis 🏡
 
 ### An Interactive Business Intelligence Dashboard Built with Power BI
 
@@ -35,7 +35,7 @@
 
 ---
 
-# 📌 Project Highlights
+## 📌 Project Highlights
 
 - 📊 Interactive Business Intelligence Dashboard
 - 🌍 Analysis of **279K+ Airbnb Listings**
@@ -47,7 +47,7 @@
 
 ---
 
-# 📖 About the Project
+## 📖 About the Project
 
 This project presents an interactive Power BI dashboard developed to analyse Airbnb marketplace performance across multiple global cities.
 
@@ -57,7 +57,7 @@ Rather than focusing only on visualisation, the project emphasises presenting an
 
 ---
 
-# 🎯 Business Objective
+## 🎯 Business Objective
 
 The primary objective of this project is to analyse Airbnb marketplace data and answer business questions related to:
 
@@ -73,7 +73,7 @@ The dashboard enables users to interactively explore marketplace performance and
 
 ---
 
-# 📊 Dataset Overview
+## 📊 Dataset Overview
 
 The analysis is based on a publicly available Airbnb dataset containing information about:
 
@@ -97,7 +97,7 @@ The analysis is based on a publicly available Airbnb dataset containing informat
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 ```text
 Raw Dataset
@@ -123,15 +123,26 @@ Business Insights
 
 ---
 
-# 📑 Dashboard Pages
+## 📑 Dashboard Pages
+
+The report consists of four interactive pages, each focusing on a different aspect of Airbnb marketplace performance. Together they provide a comprehensive view of listing growth, customer satisfaction, pricing behaviour, and review patterns.
 
 ## 🏠 Home Page
 
 Provides a central navigation page allowing users to access different analytical sections of the dashboard through an interactive interface.
 
-<p align="center">
+### Features
+
+- Interactive Dashboard Navigation
+- Quick Access to All Report Pages
+- Business-focused Dashboard Introduction
+- Publication and Dataset Information
+- Technology Stack Overview
+- Intuitive User Experience
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
 <img src="assets/landing_page.jpg" width="1000">
-</p>
+</a>
 
 <p align="center">
 <b>The landing page provides intuitive navigation to each analytical section of the dashboard.</b>
@@ -149,9 +160,9 @@ Provides a high-level summary of Airbnb marketplace performance through key perf
 - Historical Platform Timeline
 - Overall Marketplace Performance
 
-<p align="center">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
 <img src="assets/overview_page.jpg" width="1000">
-</p>
+</a>
 
 <p align="center">
 <b>Executive overview highlighting marketplace KPIs, listing growth trends, and room type distribution.</b>
@@ -171,9 +182,9 @@ Analyses customer satisfaction and pricing behaviour across different cities and
 - Market Share Analysis
 - Superhost Analysis
 
-<p align="center">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
 <img src="assets/ratings_page.jpg" width="1000">
-</p>
+</a>
 
 <p align="center">
 <b>Explore guest ratings, pricing patterns, city performance, and market concentration across Airbnb markets.</b>
@@ -193,16 +204,16 @@ Examines customer engagement patterns and host trust indicators.
 - Seasonal Review Trends
 
 
-<p align="center">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDU5MjY5MTMtOWJhMC00ODFkLWFmZDMtYzZmN2JjMzRiNjg4IiwidCI6ImY3ODUyYjcxLWM5OTItNDJhOS1iZTBkLTJkZWFmZjFhYzUyMCJ9&pageName=6b9b2dcb6ed9642d09da">
 <img src="assets/reviews_page.jpg" width="1000">
-</p>
+</a>
 
 <p align="center">
 <b>Analyze guest review behaviour, host trust indicators, and seasonal review trends.</b>
 </p>
 ---
 
-# 💡 Key Business Insights
+## 💡 Key Business Insights
 
 The dashboard highlights several important marketplace observations, including:
 
@@ -215,7 +226,7 @@ The dashboard highlights several important marketplace observations, including:
 
 ---
 
-# 🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 Through this project, I strengthened my practical understanding of:
 
@@ -224,7 +235,6 @@ Through this project, I strengthened my practical understanding of:
 - Data Modelling
 - DAX Measures
 - KPI Design
-- Business Intelligence Reporting
 - Interactive Navigation
 - Bookmark Navigation
 - Dashboard Design
@@ -233,7 +243,7 @@ Through this project, I strengthened my practical understanding of:
 
 ---
 
-# 💻 Tools & Technologies
+## 💻 Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -243,7 +253,7 @@ Through this project, I strengthened my practical understanding of:
 
 ---
 
-# ▶️ How to Use
+## ▶️ How to Use
 
 1. Click on the **Live Interactive Dashboard** preview at the top of this repository.
 2. The Power BI report will open in your web browser.
@@ -253,15 +263,18 @@ Through this project, I strengthened my practical understanding of:
 
 ---
 
-# 📂 Dataset Source
+## 📂 Dataset Source
 
 The dataset used in this project is publicly available for learning and analytical purposes.
 
-➡️ **Dataset Source:** *https://mavenanalytics.io/data-playground/airbnb-listings-reviews*
+**Dataset:** Airbnb Listings & Reviews Dataset  
+**Provider:** Maven Analytics  
+
+🔗 **Dataset Link:** https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ---
 
-# 🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 This project was completed as part of a guided Power BI learning journey to strengthen my skills in data modelling, dashboard development, DAX, and business intelligence.
 
